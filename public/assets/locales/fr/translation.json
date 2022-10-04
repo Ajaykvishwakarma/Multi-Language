@@ -1,0 +1,7 @@
+{
+  "app_title": "Titre",
+  "language": "Langue",
+  "welcome_message": "Bienvenue",
+  "instruction" : "Bonjour les amis, si vous voulez utiliser cette application de traduction, vous devez donner le texte traduit dans Assets (fichier Json 'Language') en tant que commande.",
+  "Hi Guys" : "Salut les gars"
+}
